@@ -166,13 +166,15 @@ body{
 }
 
 #portfolio .example{
-	width: 90%;
+	width: 416px;
+	float: left;
 	background-color: #f5f5f5;
 	border: 2px solid #e8e8e8;
 	padding: 10px;
 	border-radius: 5px;
 	overflow: auto;
-	margin: 0 auto 20px;
+	margin: 20px;
+	height: 600px;
 }
 
 #portfolio h1{
