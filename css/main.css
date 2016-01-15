@@ -1,0 +1,62 @@
+
+
+/*------------------------- Big Title Screen -------------------------*/
+
+#big-titles{
+	padding: 200px 200px 500px 200px;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #f5f5f5;
+}
+
+#big-titles h1{
+	text-align: center;
+}
+
+#big-titles h1:nth-child(2) b{
+	color: #01b1f1;
+}
+
+#big-titles a{
+	margin-top: 20px;
+	border: 2px solid #e8e8e8;
+}
+
+
+/*------------------------- Portfolio Examples -------------------------*/
+
+#portfolio-titles{
+	text-align: center;
+	margin: 50px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#portfolio{
+	overflow: auto;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#portfolio .example{
+	background-color: #f5f5f5;
+	border: 2px solid #e8e8e8;
+	border-radius: 5px;
+	margin: 20px 0;
+	padding: 10px;
+	text-align: center;
+	height: 400px;
+}
+
+#portfolio .example .img-crop{
+	height: 200px;
+	width: 100%;
+	overflow: hidden;
+}
+
+#portfolio .example img{
+	width: 100%;
+}
+
+#portfolio h2{
+	text-align: center;
+}
