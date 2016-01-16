@@ -18,9 +18,13 @@
 
 #big-titles a{
 	margin-top: 20px;
-	border: 2px solid #e8e8e8;
+	background-color: #225378;
+	color: #ffffff;
 }
 
+#big-titles a:hover{
+	background-color: #3A8FCF;
+}
 
 /*------------------------- Portfolio Examples -------------------------*/
 
